@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcci_driver_huawei.a CMakeFiles/cci_driver_huawei.dir/drivers/huawei/huawei_sun2000.c.o
+/usr/bin/ranlib libcci_driver_huawei.a

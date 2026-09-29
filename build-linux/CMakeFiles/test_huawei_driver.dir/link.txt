@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/test_huawei_driver.dir/link.d CMakeFiles/test_huawei_driver.dir/tests/test_huawei_driver.c.o CMakeFiles/test_huawei_driver.dir/tests/fake_modbus_transport.c.o CMakeFiles/test_huawei_driver.dir/src/cci_inverter.c.o CMakeFiles/test_huawei_driver.dir/drivers/huawei/huawei_sun2000.c.o -o test_huawei_driver  -lm

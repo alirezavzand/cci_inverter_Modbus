@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcci_inverter_core.a CMakeFiles/cci_inverter_core.dir/src/cci_inverter.c.o
+/usr/bin/ranlib libcci_inverter_core.a

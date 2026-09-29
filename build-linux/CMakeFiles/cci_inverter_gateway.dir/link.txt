@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/cci_inverter_gateway.dir/link.d CMakeFiles/cci_inverter_gateway.dir/app/main.c.o -o cci_inverter_gateway  libcci_driver_huawei.a libcci_inverter_core.a libcci_modbus_transport.a /usr/lib/x86_64-linux-gnu/libmodbus.so -lm

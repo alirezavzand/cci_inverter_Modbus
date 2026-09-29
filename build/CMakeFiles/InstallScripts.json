@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

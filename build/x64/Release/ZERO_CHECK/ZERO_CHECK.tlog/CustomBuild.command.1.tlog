@@ -1,0 +1,10 @@
+^C:\MY\GIT\CCI-SOFTWARE\CCI_INVERTER_GATEWAY_V1_2\BUILD\CMAKEFILES\D94EDBA8098A691D5A3170F4210CF734\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/MY/GIT/cci-software/cci_inverter_gateway_v1_2 -BC:/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build/cci_inverter_gateway.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

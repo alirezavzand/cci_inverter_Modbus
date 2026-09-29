@@ -1,0 +1,7 @@
+{
+  "name": "cci-inverter-gateway",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "libmodbus"
+  ]
+}

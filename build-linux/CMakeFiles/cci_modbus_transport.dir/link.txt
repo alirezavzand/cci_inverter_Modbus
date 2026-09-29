@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcci_modbus_transport.a CMakeFiles/cci_modbus_transport.dir/src/modbus_transport_libmodbus.c.o
+/usr/bin/ranlib libcci_modbus_transport.a

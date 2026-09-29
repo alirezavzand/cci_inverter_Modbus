@@ -1,0 +1,8 @@
+C:/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build/CMakeFiles/cci_inverter_core.dir
+C:/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build/CMakeFiles/cci_modbus_transport.dir
+C:/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build/CMakeFiles/cci_driver_huawei.dir
+C:/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build/CMakeFiles/cci_inverter_gateway.dir
+C:/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build/CMakeFiles/test_huawei_driver.dir
+C:/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build/CMakeFiles/RUN_TESTS.dir
+C:/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build/CMakeFiles/ALL_BUILD.dir
+C:/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build/CMakeFiles/ZERO_CHECK.dir

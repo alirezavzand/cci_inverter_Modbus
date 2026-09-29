@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\MY\GIT\cci-software\cci_inverter_gateway_v1_2\build\CMakeFiles\d94edba8098a691d5a3170f4210cf734\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4A716726-F05F-3A76-AD04-0A88096A6A2E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

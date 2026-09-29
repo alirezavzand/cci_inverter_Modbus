@@ -1,0 +1,8 @@
+/mnt/c/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build-linux/CMakeFiles/cci_inverter_core.dir
+/mnt/c/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build-linux/CMakeFiles/cci_modbus_transport.dir
+/mnt/c/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build-linux/CMakeFiles/cci_driver_huawei.dir
+/mnt/c/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build-linux/CMakeFiles/cci_inverter_gateway.dir
+/mnt/c/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build-linux/CMakeFiles/test_huawei_driver.dir
+/mnt/c/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build-linux/CMakeFiles/test.dir
+/mnt/c/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build-linux/CMakeFiles/edit_cache.dir
+/mnt/c/MY/GIT/cci-software/cci_inverter_gateway_v1_2/build-linux/CMakeFiles/rebuild_cache.dir

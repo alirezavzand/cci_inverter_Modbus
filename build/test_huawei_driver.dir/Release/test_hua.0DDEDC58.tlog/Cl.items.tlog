@@ -1,0 +1,4 @@
+C:\MY\GIT\cci-software\cci_inverter_gateway_v1_2\tests\test_huawei_driver.c;C:\MY\GIT\cci-software\cci_inverter_gateway_v1_2\build\test_huawei_driver.dir\Release\test_huawei_driver.obj
+C:\MY\GIT\cci-software\cci_inverter_gateway_v1_2\tests\fake_modbus_transport.c;C:\MY\GIT\cci-software\cci_inverter_gateway_v1_2\build\test_huawei_driver.dir\Release\fake_modbus_transport.obj
+C:\MY\GIT\cci-software\cci_inverter_gateway_v1_2\src\cci_inverter.c;C:\MY\GIT\cci-software\cci_inverter_gateway_v1_2\build\test_huawei_driver.dir\Release\cci_inverter.obj
+C:\MY\GIT\cci-software\cci_inverter_gateway_v1_2\drivers\huawei\huawei_sun2000.c;C:\MY\GIT\cci-software\cci_inverter_gateway_v1_2\build\test_huawei_driver.dir\Release\huawei_sun2000.obj

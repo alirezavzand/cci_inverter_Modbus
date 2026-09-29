@@ -1,0 +1,27 @@
+# Direct OpenWrt/toolchain build. For SDK package integration, see openwrt/README.md.
+# Example:
+#   make -f Makefile.openwrt \
+#     CC=mipsel-openwrt-linux-musl-gcc \
+#     LIBMODBUS_CFLAGS='-I/path/to/staging/usr/include/modbus' \
+#     LIBMODBUS_LIBS='-L/path/to/staging/usr/lib -lmodbus'
+
+CC ?= gcc
+CFLAGS ?= -O2 -Wall -Wextra -Wpedantic -std=c11
+CPPFLAGS += -Iinclude -Idrivers/huawei $(LIBMODBUS_CFLAGS)
+LDLIBS += $(LIBMODBUS_LIBS) -lm
+
+LIBMODBUS_LIBS ?= -lmodbus
+
+SOURCES = \
+    app/main.c \
+    src/cci_inverter.c \
+    src/modbus_transport_libmodbus.c \
+    drivers/huawei/huawei_sun2000.c
+
+TARGET = cci_inverter_gateway
+
+all:
+	$(CC) $(CPPFLAGS) $(CFLAGS) $(SOURCES) -o $(TARGET) $(LDLIBS)
+
+clean:
+	rm -f $(TARGET)
